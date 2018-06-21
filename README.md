@@ -50,6 +50,7 @@ https://github.com/ImageMagick/ImageMagick
 6. Set the desktop wallpaper on Windows  
 https://github.com/sindresorhus/win-wallpaper
 
+# Welcome your pull requests!
 
 
 [0]: https://github.com/okcy1016/poetry-desktop/releases
