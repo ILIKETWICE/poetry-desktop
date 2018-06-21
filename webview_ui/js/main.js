@@ -114,6 +114,10 @@ var Main = {
 		value: "12.jpg"
 	    }, {
 		value: "13.jpg"
+        }, {
+		value: "14.jpg"
+        }, {
+		value: "15.jpg"
             }],
             // Get imgloc from config.js
             imgSelVal: cfg.imgLoc.substring(18, cfg.imgLoc.length),
