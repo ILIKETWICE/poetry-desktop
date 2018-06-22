@@ -28,6 +28,29 @@ https://gitlab.com/okcy1016/poetry-desktop
 2. [Yandisk][2]
 
 
+
+# 致谢
+感谢以下项目的贡献者：
+
+1. 中华古诗词数据库  
+https://github.com/chinese-poetry/chinese-poetry
+
+2. A simple, fast, and fun package for building command line apps in Go  
+https://github.com/urfave/cli
+
+3. Tiny cross-platform webview library for C/C++/Golang  
+https://github.com/zserge/webview
+
+4. A Vue.js 2.0 UI Toolkit for Web  
+https://github.com/ElemeFE/element
+
+5. ImageMagick 7  
+https://github.com/ImageMagick/ImageMagick
+
+6. Set the desktop wallpaper on Windows  
+https://github.com/sindresorhus/win-wallpaper
+
+
 # Welcome your pull requests!
 ──────────────────────────────────────────────
 ─██████████████─██████████████─██████████████─
@@ -81,29 +104,6 @@ https://gitlab.com/okcy1016/poetry-desktop
 ─────██░░██─────██░░░░░░░░░░██─██░░██─────────
 ─────██████─────██████████████─██████─────────
 ──────────────────────────────────────────────
-
-
-
-# 致谢
-感谢以下项目的贡献者：
-
-1. 中华古诗词数据库  
-https://github.com/chinese-poetry/chinese-poetry
-
-2. A simple, fast, and fun package for building command line apps in Go  
-https://github.com/urfave/cli
-
-3. Tiny cross-platform webview library for C/C++/Golang  
-https://github.com/zserge/webview
-
-4. A Vue.js 2.0 UI Toolkit for Web  
-https://github.com/ElemeFE/element
-
-5. ImageMagick 7  
-https://github.com/ImageMagick/ImageMagick
-
-6. Set the desktop wallpaper on Windows  
-https://github.com/sindresorhus/win-wallpaper
 
 
 
