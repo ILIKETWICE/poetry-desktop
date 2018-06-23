@@ -47,6 +47,7 @@ func main() {
 		// Use this no argument function is because
 		// what passed to function in a defer scope won't be changed anymore
 		// but when we restart the cli app, the cmdGlo will be changed
+		// so the cli app can't be closed correctly
 		defer StopCliAppWithoutArgv()
 	}
 }
