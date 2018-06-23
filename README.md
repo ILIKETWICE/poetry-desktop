@@ -51,6 +51,12 @@ https://github.com/ImageMagick/ImageMagick
 https://github.com/sindresorhus/win-wallpaper
 
 
+
+# How to contribute 
+![alt text][8]
+(The picture above is from [gin][9] homepage.)
+
+
 # Welcome your pull requests!
 ──────────────────────────────────────────────
 ─██████████████─██████████████─██████████████─
@@ -115,3 +121,5 @@ https://github.com/sindresorhus/win-wallpaper
 [5]: https://github.com/okcy1016/poetry-desktop/raw/master/screenshots/show_case_1.png
 [6]: https://github.com/zserge/webview
 [7]: https://github.com/ElemeFE/element
+[8]: https://github.com/okcy1016/poetry-desktop/raw/master/screenshots/Screenshot%20from%202018-06-23%2021-10-04.png
+[9]: https://gin-gonic.github.io/gin/
