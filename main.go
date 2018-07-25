@@ -4,11 +4,6 @@ import (
 	"github.com/zserge/webview"
 )
 
-const (
-	windowWidth  = 800
-	windowHeight = 600
-)
-
 
 func HandleRPC(w webview.WebView, convCfgStr string) {
 
@@ -29,8 +24,8 @@ func main() {
 	url := StartHTTPServ()
 	
 	w := webview.New(webview.Settings{
-		Width:     windowWidth,
-		Height:    windowHeight,
+		Width:     800,
+		Height:    600,
 		Title:     "Poetry desktop",
 		Resizable: true,
 		URL:       url,
