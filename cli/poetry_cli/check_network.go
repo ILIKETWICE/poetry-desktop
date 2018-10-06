@@ -7,8 +7,8 @@ import (
 
 func ChkNetConn() {
 
-	host := "inncu.cn"
-	port := "80"
+	host := "mirrors.tuna.tsinghua.edu.cn"
+	port := "443"
 	timeout := time.Duration(5) * time.Second
 
 	_, err := net.DialTimeout("tcp", (host + ":" + port), timeout)
