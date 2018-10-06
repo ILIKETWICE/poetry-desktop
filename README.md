@@ -19,10 +19,11 @@
 ![alt text][5]
 
 # 下载
-1. 请前往 [Releases][0] 页面下载（国内环境下速度可能较慢）
-2. [Yandisk][2]
+1. 请前往 [Releases][0] 页面。
 
-
+# 自行编译时的注意事项
+1. 先下载 [Releases][0] 中的包解压。
+2. 请分别编译本 git 仓库根目录与 cli/poetry_cli 目录下的文件，将得到的 poetry-desktop.exe 覆盖 zip 文件解压目录的同名文件，将得到的 poetry_cli.exe 覆盖 zip 文件解压目录的 bin/poetry_cli.exe 文件。
 
 # 致谢
 感谢以下项目的贡献者：
