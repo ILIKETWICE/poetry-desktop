@@ -49,7 +49,9 @@ https://github.com/ImageMagick/ImageMagick
 6. Set the desktop wallpaper on Windows  
 https://github.com/sindresorhus/win-wallpaper
 
-
+# To do
+- [ ] 修正目录结构
+- [ ] 更换 UI
 
 # How to contribute 
 ![alt text][8]
