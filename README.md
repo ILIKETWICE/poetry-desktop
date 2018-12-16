@@ -1,4 +1,4 @@
-# poetry-desktop v1.1 2018.05.18
+# poetry-desktop v1.1
 
 欢迎使用诗词桌面！
 
